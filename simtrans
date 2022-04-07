@@ -1,0 +1,8 @@
+# Making one system to fine drivers above maximum speed
+
+velocidade = float(input("Qual é a sua velocidade? "))
+if (velocidade > 80): 
+  multa = velocidade - 80
+  print(f"Você ultrapassou a velocidade máxima permitida, e foi multado em {multa * 5}!")
+else:
+  print(f"Você está ná velocidade permitida!")
