@@ -1,7 +1,7 @@
 # Ask two numbers integer, and then add both
-# a = int(input("Type one number: "))
-# b = int(input("Type another number: "))
-# print(f"The sum of numbers is: {a+b}")
+ a = int(input("Type one number: "))
+ b = int(input("Type another number: "))
+ print(f"The sum of numbers is: {a+b}")
 
 
 
